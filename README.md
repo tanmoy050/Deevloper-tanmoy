@@ -1,2 +1,2 @@
 # Deevloper-tanmoy
-This is a simple calculator using jsp
+This is a simple calculator in python.
